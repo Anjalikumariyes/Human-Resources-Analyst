@@ -43,7 +43,7 @@ LastPerformanceReviewDate	        The most recent date of the person’s last pe
 DaysLateLast30	                  The number of times that the employee was late to work during the last 30 days	                       Integer
 Absences	                        The number of times the employee was absent from work.	                                               Integer
 
-<img width="1162" height="913" alt="image" src="https://github.com/user-attachments/assets/20c79fdf-5616-4977-a1f5-77bf7618a8d7" />
+<img width="1162" height="913" alt="image" src="(https://github.com/Anjalikumariyes/Human-Resources-Analyst/blob/main/Data_Dictionary.png)"/>
 
 ```
 ## Project Goals
