@@ -5,7 +5,7 @@ To create an HR analytics dashboard that provides insights into employee demogra
 decision-making.
 
 ## Data Dictionary
-<img src="(https://github.com/Anjalikumariyes/Human-Resources-Analyst/blob/main/Data_Dictionary.png)" alt= "data"/>
+<img src="[(https://github.com/Anjalikumariyes/Human-Resources-Analyst/blob/main/Data_Dictionary.png)](https://github.com/Anjalikumariyes/Human-Resources-Analyst/blob/main/Data_Dictionary.png)" alt= "data"/>
 
 ## Project Goals
 
