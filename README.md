@@ -44,7 +44,6 @@ Calculated fields in Tableau (Attrition Rate, Median Salary, etc).
 <img src="https://github.com/Anjalikumariyes/Human-Resources-Analyst/blob/main/HR_Analysis_Dashboard.png" alt="Dashboard"/>
 
 ## Dashboard Components with Purpose & Insight
-
 | Component                                           | Purpose                                       | Key Insights                                                                                          |                     |                 |                        |                      |
 | --------------------------------------------------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------- | --------------- | ---------------------- | -------------------- |
 | **Gender Distribution (Pie Chart)**                 | Show workforce gender split.                  | Workforce is 56% Female, 44% Male → relatively balanced but slightly more women.                      |                     |                 |                        |                      |
@@ -55,7 +54,9 @@ Calculated fields in Tableau (Attrition Rate, Median Salary, etc).
 | **Performance Score Distribution (Bar Chart)**      | Evaluate overall performance ratings.         | Most employees (243) "Fully Meet" expectations. Few underperformers → stable performance culture.     |                     |                 |                        |                      |
 | **Engagement vs Performance (Scatter + Trendline)** | Show link between engagement and performance. | Clear positive correlation. High engagement → high performance. Outliers exist (training needed).     |                     |                 |                        |                      |
 | **Avg Salary by Dept & Gender (Bar Chart)**         | Compare pay across departments and genders.   | IT/IS and Software Engineering highest pay. Gender gaps exist in some departments.                    |                     |                 |                        |                      |
-| **KPI Cards (Top row)**                             | Provide quick executive view of key metrics.  | Termination Rate: 33.4%                                                                               | Avg Absences: 10.24 | Avg Salary: 69K | Avg Satisfaction: 3.89 | Avg Engagement: 4.11 |
+| **KPI Cards (Top row)**                             | Provide quick executive view of key metrics.  | Termination Rate: 33.4%| Avg Absences: 10.24 | Avg Salary: 69K | Avg Satisfaction: 3.89 | Avg Engagement: 4.11 |
+
+
 
 
 ## Business Impact
