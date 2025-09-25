@@ -1,4 +1,5 @@
 # Human-Resources-Analyst
+(Business Analyst Internship Project)
 
 ## Project Objective
 To create an HR analytics dashboard that provides insights into employee demographics,turnover rates, hiring trends, performance metrics, and satisfaction scores to improve HR
