@@ -6,9 +6,9 @@ decision-making.
 
 ## Data Dictionary
 <img src="https://github.com/Anjalikumariyes/Human-Resources-Analyst/blob/main/Data_Dictionary.png" alt= "data"/>
- <a href = "https://github.com/Anjalikumariyes/Human-Resources-Analyst/blob/main/HRDataset_v14.csv"> Dataset</a>
+ Dataset <a href = "https://github.com/Anjalikumariyes/Human-Resources-Analyst/blob/main/HRDataset_v14.csv">link</a>
+ 
 ## Project Goals
-
 Workforce Overview: Provide executives with a real-time snapshot of the workforce (headcount, turnover, diversity, engagement).
 
 Attrition Analysis: Identify high-risk departments, reasons for termination, and turnover trends to improve retention.
