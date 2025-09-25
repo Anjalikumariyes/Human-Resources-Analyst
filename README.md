@@ -5,7 +5,7 @@ To create an HR analytics dashboard that provides insights into employee demogra
 decision-making.
 
 ## Data Dictionary
-```sql
+```
 Feature               	          Description       	                                                                                 DataType
 Employee Name	                    Employee’s full name	                                                                                Text
 EmpID               	            Employee ID is unique to each employee	                                                              Text
