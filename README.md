@@ -41,7 +41,7 @@ Cleaned and structured HR dataset (CSV).
 Calculated fields in Tableau (Attrition Rate, Median Salary, etc).
 
 ## Dashboard 
-<img src="https://github.com/Anjalikumariyes/Human-Resources-Analyst/blob/main/HR_Analysis_Dashboard.png"alt= "Dashboard"/>
+<img src="https://github.com/Anjalikumariyes/Human-Resources-Analyst/blob/main/HR_Analysis_Dashboard.png" alt="Dashboard"/>
 
 ## Dashboard Components with Purpose & Insight
 
